@@ -1,21 +1,46 @@
 ---
-layout: default
+layout: base
 title: Rodrigo Setti's Website
 ---
 
-<div id="home">
-  <h2>Posts</h2>
+<div class="jumbotron">
+    <h1 class="title">{{ site.name }}</h1>
+    <p>A place for free writing of opinions and thoughts.</p>
+</div>
 
-  <ul class="list-group">
+<div id="posts">
+
     {% for post in site.posts %}
-    <li class="list-group-item">
-        <h4 class="list-group-item-heading"><a href="{{ post.url }}">{{ post.title }}</a> </h4>
+    <div>
+        <h3 class="list-group-item-heading"><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <span class="label label-default">{{ post.date | date_to_string }}</span>
         <p class="list-group-item-text">
-          <p class="excerpt">{{ post.excerpt | markdownify }}</p>
+        <p class="excerpt">{{ post.excerpt | markdownify }}</p>
         </p>
-    </li>
+    </div>
+    <hr/>
     {% endfor %}
-  </ul>
+</ul>
+</div>
+
+<div id="social">
+    <a href="https://www.facebook.com/rodrigosetti" target="_blank">
+        <img src="images/facebook.png" width="32px" height="32px" alt="facebook" />
+    </a>
+    <a href="https://github.com/rodrigosetti" target="_blank">
+        <img src="images/github.png" width="32px" height="32px" alt="github"/>
+    </a>
+    <a href="https://plus.google.com/+rodrigosetti" target="_blank">
+        <img src="images/google.png" width="32px" height="32px" alt="google" />
+    </a>
+    <a href="http://www.linkedin.com/in/rodrigosetti" target="_blank">
+        <img src="images/linkedin.png" width="32px" height="32px" alt="linkedin" />
+    </a>
+    <a href="http://www.reddit.com/user/rodrigosetti/" target="_blank">
+        <img src="images/reddit.png" width="32px" height="32px" alt="reddit" />
+    </a>
+    <a href="https://twitter.com/rodrigosetti" target="_blank">
+        <img src="images/twitter.png" width="32px" height="32px" alt="twitter" />
+    </a>
 </div>
 

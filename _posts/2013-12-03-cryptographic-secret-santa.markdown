@@ -131,7 +131,7 @@ Where
     the participant's Secret Santa's anonymous public key).
   * `NAME` is the agreed participant's identity name.
   * `Y` is the participant's identity private key.
-  * `SALT` is a random salt, using to make the message cryptographically
+  * `SALT` is a random salt, used to make the message cryptographically
     stronger.
 
 The secret message is published (it doesn't matter if it's anonymous or not).
