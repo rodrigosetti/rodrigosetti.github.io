@@ -2,3 +2,7 @@ name: Setti's
 markdown: redcarpet
 pygments: true
 permalink: /:categories/:title
+exclude:
+    - README.md
+    - LICENSE
+
