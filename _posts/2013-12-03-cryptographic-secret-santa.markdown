@@ -230,17 +230,17 @@ public key and uses to read the signed "Alice" name - confirming her identity.
 See the figure for a overview on how Alice may compose her secret message and
 publish:
 
-  1. First, she takes her public identifier "Alice" (her name), and sign
-     using her identity private key.
+  1. First, she takes her public identifier "Alice" (her name), and sign using
+     her identity private key.
   2. Then, she takes the immediately preceding anonymous public key from her
      own key in the agreed permutation (her Secret Santa) and uses it to
      encrypt the signed message. Note that since the key was published
      anonymously, she don't know the identity of her Secret Santa.
-  3. It turns out that Bob is Alice's Secret Santa. So he is the only one
-     able to decrypt the secret message (using his anonymous private key).
-  4. He then see that the message was signed by Alice, and he then takes
-     Alice's public identity key and uses it to verify the signature (reading
-     her name) and confirming tha she is his secret friend.
+  3. her Secret Santa (whoever hi/she is) is the only one able to decrypt the
+     secret message (using his/her anonymous private key).
+  4. The Secret Santa then see that the message was signed by Alice, and he/she
+     then takes Alice's public identity key and uses it to verify the signature
+     (reading her name) and confirming tha she is his/her secret friend.
 
 ## Implementation
 
