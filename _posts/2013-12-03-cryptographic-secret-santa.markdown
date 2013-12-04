@@ -5,8 +5,6 @@ date:   2013-12-03 18:51:47
 categories: cryptography
 ---
 
-## Abstract
-
 One of the most popular holiday games, Secret Santa (also known as Kris Kringle
 in some circles) is a fun and easy way for a group of friends, family members
 or co-workers to exchange gifts.
