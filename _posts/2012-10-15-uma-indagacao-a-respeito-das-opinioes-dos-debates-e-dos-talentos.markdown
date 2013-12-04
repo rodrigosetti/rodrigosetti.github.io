@@ -219,8 +219,10 @@ lembre-se disso ao adentrar em um debate antes de se irritar futilmente.
   2. Geoff Colvin. Talent Is Overrated: What Really Separates World-Class
      Performers from Everybody Else. 2010
 
-  3. Daniel Coyle. The Talent Code: Greatness Isn’t Born. It’s Grown. Here’s
-     How. 2009 4Malcolm Gladwel. Outliers: The Story of Success. 2011
+  3. Daniel Coyle. The Talent Code: Greatness Isn't Born. It's Grown. Here's
+     How. 2009
 
-  4. David Shenk. The Genius in All of Us. 2010 
+  4. Malcolm Gladwel. Outliers: The Story of Success. 2011
+
+  5. David Shenk. The Genius in All of Us. 2010
 
