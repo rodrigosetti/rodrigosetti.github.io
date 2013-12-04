@@ -1,0 +1,18 @@
+---
+layout: default
+title: Rodrigo Setti's Website
+---
+
+<div id="home">
+  <h2>Posts</h2>
+
+  <ul class="list-group">
+    {% for post in site.posts %}
+    <li class="list-group-item">
+        <h4 class="list-group-item-heading"><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        <p class="list-group-item-text">{{ post.date | date_to_string }}</p>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
