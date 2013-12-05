@@ -6,3 +6,11 @@ exclude:
     - README.md
     - LICENSE
 
+redcarpet:
+  extensions:
+    - quote
+    - footnotes
+    - fenced_code_blocks
+    - autolink
+    - tables
+

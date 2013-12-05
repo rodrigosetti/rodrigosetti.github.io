@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Cryptographic Secret Santa"
-date:   2013-12-03 18:51:47
+title : Cryptographic Secret Santa
 categories: cryptography
 ---
 

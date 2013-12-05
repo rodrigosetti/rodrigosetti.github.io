@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Caixa Preta"
-date:   2013-11-07 02:00:00
+title : Caixa Preta
 categories: filosofia
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
-title:  "Uma Indagação a Respeito das Opiniões, dos Debates e dos Talentos"
-date:   2013-10-15 13:01:29
+title : Uma Indagação a Respeito das Opiniões, dos Debates e dos Talentos
 categories: filosofia
 ---
 
@@ -131,7 +130,7 @@ tempo certo).
 
 A palavra "dom" tem como sinônimo os termos dádiva e presente, também
 desembocando em um sentido teológico no qual dom é um "bem espiritual pro-
-porcionado por Deus" (MICHAELIS, p. 296). Fucci Amato [1] nos diz que:
+porcionado por Deus" (MICHAELIS, p. 296). Fucci Amato [^1] nos diz que:
 
 > Predomina no senso comum a visão de que o artista é um ser que foi
 > escolhido por uma entidade divina para receber um dom especial, que o distingue
@@ -142,8 +141,8 @@ porcionado por Deus" (MICHAELIS, p. 296). Fucci Amato [1] nos diz que:
 > pessoas "únicas" e "especiais". (pagina 81)
 
 Diversos autores contemporâneos tem argumentado contra a ideia do dom inato,
-como Geoff Colvin [2], Daniel Coyle [3], Malcolm Gladwel [4], e David Shenk
-[5].
+como Geoff Colvin [^2], Daniel Coyle [^3], Malcolm Gladwel [^4], e David Shenk
+[^5].
 
 É difícil se acostumar com a ideia de que nascemos todos com as mesmas chances
 de brilhar. Principalmente quando olhamos para aquelas pessoas que parecem ter
@@ -212,17 +211,17 @@ lembre-se disso ao adentrar em um debate antes de se irritar futilmente.
 
 -----
 
-  1. Fucci Amato, Rita de Cássia. Capital cultural versus dom inato:
-     questionando sociologicamente a trajetória musical de compositores e
-     intérpretes brasileiros. 2008
+[^1]: Fucci Amato, Rita de Cássia. Capital cultural versus dom inato:
+      questionando sociologicamente a trajetória musical de compositores e
+      intérpretes brasileiros. 2008
 
-  2. Geoff Colvin. Talent Is Overrated: What Really Separates World-Class
-     Performers from Everybody Else. 2010
+[^2]: Geoff Colvin. Talent Is Overrated: What Really Separates World-Class
+      Performers from Everybody Else. 2010
 
-  3. Daniel Coyle. The Talent Code: Greatness Isn't Born. It's Grown. Here's
-     How. 2009
+[^3]: Daniel Coyle. The Talent Code: Greatness Isn't Born. It's Grown. Here's
+      How. 2009
 
-  4. Malcolm Gladwel. Outliers: The Story of Success. 2011
+[^4]: Malcolm Gladwel. Outliers: The Story of Success. 2011
 
-  5. David Shenk. The Genius in All of Us. 2010
+[^5]: David Shenk. The Genius in All of Us. 2010
 
