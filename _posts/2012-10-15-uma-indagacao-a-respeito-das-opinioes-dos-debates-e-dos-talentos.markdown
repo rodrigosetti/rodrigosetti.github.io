@@ -172,23 +172,6 @@ programando computadores enfurnado numa sala da Universidade da Califórnia. Ou
 seja, mesmo aquelas pessoas bem-sucedidas, que parecem esbanjar talento,
 trabalharam muito antes de chegar lá.
 
-O autor deste texto não pretende de forma nenhuma comparar-se a nenhuma das
-pessoas brilhantes citadas, mas apenas como ilustração, empresto minha
-experiência pessoal para enriquecer este diálogo. Recentemente fui contratado
-para ocupar a função de Engenheiro de Software Sênior em uma badalada em- presa
-do Vale do Silício avaliada em pouco mais de um bilhão de dólares. Meus colegas
-de trabalho são pessoas com vários anos de experiência, e até alguns senhores
-de cabelo branco. Algumas pessoas se surpreendem ao averiguar que, aos 26 anos,
-saí da faculdade a apenas quatro anos, e tenho só um ano e meio de emprego
-formal.
-
-Eu não tenho talento inato para informática - não está nos meus genes. Tenho
-praticado e aprendido tantas horas quanto posso desde os 13 anos de idade,
-contabilizando 10 anos de treino - ou cerca de 10.000 horas - até chegar aqui.
-Justamente o tempo de Michael Gladwel estabeleceu (regra das 10.000 horas) como
-necessárias para se tornar "mestre" em qualquer habilidade. Para desânimo dos
-medíocres, a resposta é trabalho duro, não dom.
-
 Isso faz todo sentido, se considerarmos a nova maneira como os cientistas têm
 enxergado a influência dos genes na formação de talentos. Aquilo que costumamos
 chamar de "talento natural para liderança" ou "aptidão nata para os esportes"
